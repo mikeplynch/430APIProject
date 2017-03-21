@@ -1,0 +1,930 @@
+[
+ {
+   "Character Name": "???",
+   "Title": "Masked Knight",
+   "Origin": "Fire Emblem Heroes",
+   "Weapon Type": "Blue Tome",
+   "Movement Type": "Cavalry",
+   "Release Date": "N/A"
+ },
+ {
+   "Character Name": "Abel",
+   "Title": "The Panther",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Lance",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Alfonse",
+   "Title": "Prince of Askr",
+   "Origin": "Fire Emblem Heroes",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Anna",
+   "Title": "Commander",
+   "Origin": "Fire Emblem Heroes",
+   "Weapon Type": "Axe",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Arthur",
+   "Title": "Hapless Hero",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Axe",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Azama",
+   "Title": "Carefree Monk",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Staff",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Azura",
+   "Title": "Lady of the Lake",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Lance",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Barst",
+   "Title": "The Hatchet",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Axe",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Bartre",
+   "Title": "Fearless Warrior",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Axe",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Beruka",
+   "Title": "Quiet Assassin",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Axe",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Caeda",
+   "Title": "Talys's Heart",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Sword",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Cain",
+   "Title": "The Bull",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Sword",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Camilla",
+   "Title": "Bewitching Beauty",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Axe",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Camus",
+   "Title": "Sable Knight",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Lance",
+   "Movement Type": "Cavalry",
+   "Release Date": "N/A"
+ },
+ {
+   "Character Name": "Catria",
+   "Title": "Middle Whitewing",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Lance",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Cecilia",
+   "Title": "Etrurian General",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Green Tome",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Cherche",
+   "Title": "Wyvern Friend",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Axe",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Chrom",
+   "Title": "Exalted Prince",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Clarine",
+   "Title": "Refined Noble",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Staff",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Cordelia",
+   "Title": "Knight Paragon",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Lance",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Corrin (F)",
+   "Title": "Fateful Princess",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Blue Beast",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Corrin (M)",
+   "Title": "Fateful Prince",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Donnel",
+   "Title": "Village Hero",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Lance",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Draug",
+   "Title": "Gentle Giant",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Sword",
+   "Movement Type": "Armored",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Effie",
+   "Title": "Army of One",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Lance",
+   "Movement Type": "Armored",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Eirika",
+   "Title": "Restoration Lady",
+   "Origin": "Fire Emblem: Sacred Stones",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "15-Feb-17"
+ },
+ {
+   "Character Name": "Eldigan",
+   "Title": "Lionheart",
+   "Origin": "Fire Emblem: Genealogy of the Holy War",
+   "Weapon Type": "Sword",
+   "Movement Type": "Cavalry",
+   "Release Date": "27-Feb-17"
+ },
+ {
+   "Character Name": "Elise",
+   "Title": "Budding Flower",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Staff",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Eliwood",
+   "Title": "Knight of Lycia",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Sword",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Ephraim",
+   "Title": "Restoration Lord",
+   "Origin": "Fire Emblem: Sacred Stones",
+   "Weapon Type": "Lance",
+   "Movement Type": "Infantry",
+   "Release Date": "15-Feb-17"
+ },
+ {
+   "Character Name": "Est",
+   "Title": "Junior Whitewing",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Lance",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Fae",
+   "Title": "Divine Dragon",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Green Beast",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Felicia",
+   "Title": "Maid Mayhem",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Shuriken",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Fir",
+   "Title": "Sword Student",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Florina",
+   "Title": "Lovely Flier",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Lance",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Frederick",
+   "Title": "Polite Knight",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Axe",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Gaius",
+   "Title": "Candy Stealer",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Shuriken",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Gordin",
+   "Title": "Altean Archer",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Bow",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Gunter",
+   "Title": "Inveterate Soldier",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Axe",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Gwendolyn",
+   "Title": "Adorable Knight",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Lance",
+   "Movement Type": "Armored",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Hana",
+   "Title": "Focused Samurai",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Hawkeye",
+   "Title": "Desert Guardian",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Axe",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Hector",
+   "Title": "General of Ostia",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Axe",
+   "Movement Type": "Armored",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Henry",
+   "Title": "Twisted Mind",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Red Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Hinata",
+   "Title": "Wild Samurai",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Hinoka",
+   "Title": "Warrior Princess",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Lance",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Jaffar",
+   "Title": "Angel of Death",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Shuriken",
+   "Movement Type": "Infantry",
+   "Release Date": "14-Mar-17"
+ },
+ {
+   "Character Name": "Jagen",
+   "Title": "Veteran Knight",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Lance",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Jakob",
+   "Title": "Devoted Servant",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Shuriken",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Jeorge",
+   "Title": "Perfect Shot",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Bow",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Julia",
+   "Title": "Naga's Blood",
+   "Origin": "Fire Emblem: Genealogy of the Holy War",
+   "Weapon Type": "Green Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "15-Feb-17"
+ },
+ {
+   "Character Name": "Kagero",
+   "Title": "Honorable Ninja",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Shuriken",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Karel",
+   "Title": "Sword Demon",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "14-Mar-17"
+ },
+ {
+   "Character Name": "Klein",
+   "Title": "Silver Nobleman",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Bow",
+   "Movement Type": "Infantry",
+   "Release Date": "27-Feb-17"
+ },
+ {
+   "Character Name": "Lachesis",
+   "Title": "Lionheart's Sister",
+   "Origin": "Fire Emblem: Genealogy of the Holy War",
+   "Weapon Type": "Staff",
+   "Movement Type": "Infantry",
+   "Release Date": "27-Feb-17"
+ },
+ {
+   "Character Name": "Laslow",
+   "Title": "Dancing Duelist",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Leo",
+   "Title": "Sorcerous Prince",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Red Tome",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Lilina",
+   "Title": "Delightful Noble",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Red Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Linde",
+   "Title": "Light Mage",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Blue Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Lissa",
+   "Title": "Sprightly Cleric",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Staff",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Lon'qu",
+   "Title": "Solitary Blade",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Lucina",
+   "Title": "Future Witness",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Lucius",
+   "Title": "The Light",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Staff",
+   "Movement Type": "Infantry",
+   "Release Date": "14-Mar-17"
+ },
+ {
+   "Character Name": "Lyn",
+   "Title": "Lady of the Plains",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Maria",
+   "Title": "Minerva's Sister",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Staff",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Marth",
+   "Title": "Altean Prince",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Matthew",
+   "Title": "Faithful Spy",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Shuriken",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Merric",
+   "Title": "Wind Mage",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Green Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Michalis",
+   "Title": "Ambitious King",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Axe",
+   "Movement Type": "Flying",
+   "Release Date": "20-Mar-17"
+ },
+ {
+   "Character Name": "Minerva",
+   "Title": "Red Dragoon",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Axe",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Narcian",
+   "Title": "Wyvern General",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Axe",
+   "Movement Type": "Flying",
+   "Release Date": "10-Feb-17"
+ },
+ {
+   "Character Name": "Navarre",
+   "Title": "Scarlet Sword",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "N/A"
+ },
+ {
+   "Character Name": "Niles",
+   "Title": "Cruel to Be Kind",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Bow",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Ninian",
+   "Title": "Oracle of Destiny",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Blue Beast",
+   "Movement Type": "Infantry",
+   "Release Date": "14-Mar-17"
+ },
+ {
+   "Character Name": "Nino",
+   "Title": "Pious Mage",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Green Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Nowi",
+   "Title": "Eternal Youth",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Blue Beast",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Oboro",
+   "Title": "Fierce Fighter",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Lance",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Odin",
+   "Title": "Potent Force",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Blue Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Ogma",
+   "Title": "Loyal Blade",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Olivia",
+   "Title": "Blushing Beauty",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Olwen",
+   "Title": "Blue Mage Knight",
+   "Origin": "Fire Emblem: Thracia 776",
+   "Weapon Type": "Blue Tome",
+   "Movement Type": "Cavalry",
+   "Release Date": "27-Feb-17"
+ },
+ {
+   "Character Name": "Palla",
+   "Title": "Eldest Whitewing",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Sword",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Peri",
+   "Title": "Playful Slayer",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Lance",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Priscilla",
+   "Title": "Delicate Princess",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Staff",
+   "Movement Type": "Cavalry",
+   "Release Date": "14-Mar-17"
+ },
+ {
+   "Character Name": "Raigh",
+   "Title": "Dark Child",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Red Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Raven",
+   "Title": "Peerless Fighter",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Axe",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Rebecca",
+   "Title": "Wildflower",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Bow",
+   "Movement Type": "Infantry",
+   "Release Date": "14-Mar-17"
+ },
+ {
+   "Character Name": "Reinhardt",
+   "Title": "Thunder's Fist",
+   "Origin": "Fire Emblem: Thracia 776",
+   "Weapon Type": "Blue Tome",
+   "Movement Type": "Cavalry",
+   "Release Date": "27-Feb-17"
+ },
+ {
+   "Character Name": "Robin (F)",
+   "Title": "Mystery Tactician",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Green Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "23-Feb-17"
+ },
+ {
+   "Character Name": "Robin (M)",
+   "Title": "High Deliverer",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Blue Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Roy",
+   "Title": "Young Lion",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Ryoma",
+   "Title": "Peerless Samurai",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Saizo",
+   "Title": "Angry Ninja",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Shuriken",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Sakura",
+   "Title": "Loving Priestess",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Staff",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Sanaki",
+   "Title": "Begnion's Apostle",
+   "Origin": "Fire Emblem: Radiant Dawn",
+   "Weapon Type": "Red Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "27-Feb-17"
+ },
+ {
+   "Character Name": "Selena",
+   "Title": "Cutting Wit",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Seliph",
+   "Title": "Heir of Light",
+   "Origin": "Fire Emblem: Genealogy of the Holy War",
+   "Weapon Type": "Sword",
+   "Movement Type": "Infantry",
+   "Release Date": "27-Feb-17"
+ },
+ {
+   "Character Name": "Serra",
+   "Title": "Outspoken Cleric",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Staff",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Setsuna",
+   "Title": "Absent Archer",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Bow",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Shanna",
+   "Title": "Sprightly Flier",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Lance",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Sharena",
+   "Title": "Princess of Askr",
+   "Origin": "Fire Emblem Heroes",
+   "Weapon Type": "Lance",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Sheena",
+   "Title": "Princess of Gra",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Axe",
+   "Movement Type": "Armored",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Sophia",
+   "Title": "Nabata Prophet",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Red Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Stahl",
+   "Title": "Viridian Knight",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Sword",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Subaki",
+   "Title": "Perfect Expert",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Lance",
+   "Movement Type": "Flying",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Sully",
+   "Title": "Crimson Knight",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Lance",
+   "Movement Type": "Cavalry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Takumi",
+   "Title": "Wild Card",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Bow",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Tharja",
+   "Title": "Dark Shadow",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Red Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Tiki",
+   "Title": "Naga's Voice",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Red Beast",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Tiki (Young)",
+   "Title": "Dragon Scion",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Red Beast",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Ursula",
+   "Title": "Blue Crow",
+   "Origin": "Fire Emblem: The Blazing Blade",
+   "Weapon Type": "Blue Tome",
+   "Movement Type": "Cavalry",
+   "Release Date": "10-Mar-17"
+ },
+ {
+   "Character Name": "Veronica",
+   "Title": "Emblian Princess",
+   "Origin": "Fire Emblem Heroes",
+   "Weapon Type": "Green Tome",
+   "Movement Type": "Infantry",
+   "Release Date": "N/A"
+ },
+ {
+   "Character Name": "Virion",
+   "Title": "Elite Archer",
+   "Origin": "Fire Emblem Awakening",
+   "Weapon Type": "Bow",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Wrys",
+   "Title": "Kindly Priest",
+   "Origin": "Fire Emblem: Mystery of the Emblem",
+   "Weapon Type": "Staff",
+   "Movement Type": "Infantry",
+   "Release Date": "2-Feb-17"
+ },
+ {
+   "Character Name": "Xander",
+   "Title": "Paragon Knight",
+   "Origin": "Fire Emblem Fates",
+   "Weapon Type": "Sword",
+   "Movement Type": "Cavalry",
+   "Release Date": "N/A"
+ },
+ {
+   "Character Name": "Zephiel",
+   "Title": "The Liberator",
+   "Origin": "Fire Emblem: The Binding Blade",
+   "Weapon Type": "Sword",
+   "Movement Type": "Armored",
+   "Release Date": "N/A"
+ }
+]
